@@ -3,3 +3,4 @@ gunicorn
 whitenoise
 pymupdf
 psycopg2-binary
+djangorestframework
